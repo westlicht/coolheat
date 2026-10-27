@@ -47,7 +47,7 @@
 	(setup
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
-		(grid_origin 72.39 74.93)
+		(grid_origin 109.22 110.49)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -102,7 +102,7 @@
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
 		(layer "F.Cu")
 		(uuid "015e4bd7-6e5c-4d3f-97de-973dd6215be3")
-		(at 109.22 149.86)
+		(at 109.22 149.99)
 		(descr "Mounting Hole 4.3mm, no annular, M4")
 		(tags "mounting hole 4.3mm no annular m4")
 		(property "Reference" "H1"
@@ -1699,7 +1699,7 @@
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
 		(layer "F.Cu")
 		(uuid "52638f74-66e7-4150-a9bc-77dd5c6381a7")
-		(at 69.85 110.49)
+		(at 69.72 110.49)
 		(descr "Mounting Hole 4.3mm, no annular, M4")
 		(tags "mounting hole 4.3mm no annular m4")
 		(property "Reference" "H2"
@@ -2888,7 +2888,7 @@
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
 		(layer "F.Cu")
 		(uuid "8cca7005-5cb1-4167-b170-c92ca87cb9a8")
-		(at 109.22 71.12)
+		(at 109.22 70.99)
 		(descr "Mounting Hole 4.3mm, no annular, M4")
 		(tags "mounting hole 4.3mm no annular m4")
 		(property "Reference" "H4"
@@ -6283,7 +6283,7 @@
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
 		(layer "F.Cu")
 		(uuid "ff387ac6-bab5-4a6e-a933-5d8ab3eea90a")
-		(at 148.59 110.49)
+		(at 148.72 110.49)
 		(descr "Mounting Hole 4.3mm, no annular, M4")
 		(tags "mounting hole 4.3mm no annular m4")
 		(property "Reference" "H3"
